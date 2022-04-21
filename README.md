@@ -4,6 +4,10 @@
 
 Minter is a token factory for TNT20 tokens. This application will create and show tokens minted from others using this applications.
 
+### for some context
+
+Smart contracts where created in remix editor so it doesn't have whole project there. If you can put both the smart contracts in remix compile it and deploy it using [Theta Wallet](https://wallet.thetatoken.org/wallet/tokens/theta). If you want to deploy these smart contract follow [this doc](https://docs.thetatoken.org/docs/smart-contract-wallet-deployment-example) created by awesome people at Theta Network.
+
 ## How it works?
 
 After loging in the application using your metamask wallet, you can try create your own TNT20 token.
